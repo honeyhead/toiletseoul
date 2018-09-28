@@ -1,11 +1,22 @@
-# toiletkorea
+2018년 서울시 앱 공모전 출품작 (Toilet Seoul)
 
-A new Flutter project.
+1. 프로젝트 소개
+지정 반경 기준 서울시 공공 ㆍ 개방 화장실 안내
 
-## Getting Started
+2. 기획 의도
+서울시에서 화장실을 찾기 위해 미친듯 뛰어다녔습니다.
+상가는 번호키로 잠궈놓고 슬픔에 젖어 있었고
+유명 지도앱에서 화장실이 나오지도 않는 다는 현실에
+보다 많은 시민들이 화장실이 
+이렇게 많다는 것을 알려주고 싶었습니다
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# toiletseoul
-# toiletseoul
-# toiletseoul
+3. 주요 기능
+- API 미 사용으로 관리 비용 없음
+- 위치기반형 검색(반경 설정 가능)
+- 타 지도앱으로 파라미터 연계
+- 오류 수정 메일 보내기
+- 누락 및 오류가 있는 공공 데이터의 예외처리로 인한 쉬운 업데이트   
+
+6. 기대 효과
+심리 상태가 불안한 상태의 사용자에게 직관적이면서도 빠른 검색이 가능하도록 하여
+최대한 현상 해결을 할 수 있도록 지원하고 있습니다.
