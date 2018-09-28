@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:permission_handler] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\fd67c91c5e81859322e4b0c6ba0e7d1b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\f590b813e453968d22fb1438028e4b6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\694af74555b7651a51f520f5eee662d5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0dbd001cfd21180c963afafc35565b27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\96cef76efe94d6a818259079244735aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdaa22cbcf227711aa348b1aeb7f1853\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4161fcfcee2f30be5781ee91711211fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b041a0b7cf489157f1db64a9180c3a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2035651b0e19a543499f63a9da4a8500\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d790142c51a71325d40f4e000adab7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4efdcde683781a353a8e84479aefb7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d71e2c9dd101f7eacc0a31ab816ff081\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d7b79b70de0918348b69c798503907bb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-81
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:11:22-66
+application
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:18:5-43:19
+MERGED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\fd67c91c5e81859322e4b0c6ba0e7d1b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\fd67c91c5e81859322e4b0c6ba0e7d1b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\f590b813e453968d22fb1438028e4b6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\f590b813e453968d22fb1438028e4b6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\694af74555b7651a51f520f5eee662d5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\694af74555b7651a51f520f5eee662d5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:20:9-37
+	android:icon
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:19:9-57
+activity#com.seoul.toiletkorea.MainActivity
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:26:9-41:20
+	android:launchMode
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:28:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:30:13-137
+	android:theme
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:27:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:34:13-36:40
+	android:value
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:36:17-37
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:35:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+MERGED from [:permission_handler] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\permission_handler\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\geolocator\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\fd67c91c5e81859322e4b0c6ba0e7d1b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\fd67c91c5e81859322e4b0c6ba0e7d1b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\f590b813e453968d22fb1438028e4b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\f590b813e453968d22fb1438028e4b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\694af74555b7651a51f520f5eee662d5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\694af74555b7651a51f520f5eee662d5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0dbd001cfd21180c963afafc35565b27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0dbd001cfd21180c963afafc35565b27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\96cef76efe94d6a818259079244735aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\96cef76efe94d6a818259079244735aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdaa22cbcf227711aa348b1aeb7f1853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdaa22cbcf227711aa348b1aeb7f1853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4161fcfcee2f30be5781ee91711211fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4161fcfcee2f30be5781ee91711211fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b041a0b7cf489157f1db64a9180c3a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b041a0b7cf489157f1db64a9180c3a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2035651b0e19a543499f63a9da4a8500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2035651b0e19a543499f63a9da4a8500\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d790142c51a71325d40f4e000adab7fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d790142c51a71325d40f4e000adab7fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4efdcde683781a353a8e84479aefb7e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4efdcde683781a353a8e84479aefb7e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d71e2c9dd101f7eacc0a31ab816ff081\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d71e2c9dd101f7eacc0a31ab816ff081\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d7b79b70de0918348b69c798503907bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d7b79b70de0918348b69c798503907bb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\honeyhead\IdeaProjects\toiletkorea\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\honeyhead\IdeaProjects\toiletkorea\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:9:13-92
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\a87cc822dad560e8e6c3d9ce1ec896aa\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\honeyhead\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8f46dc5b341987a203a3fc7ab4296f50\AndroidManifest.xml:24:13-58
